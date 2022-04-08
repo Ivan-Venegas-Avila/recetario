@@ -1,0 +1,50 @@
+body {
+    background-image: linear-gradient(#ffd9b3, #ffa64d, #cc6600);
+    margin:0px;
+    margin-top: 0px;
+}
+
+header {
+    background-image: linear-gradient(#ffd9b3,#cc6600 );
+    border: #ffa64d 2px dotted;
+}
+header img {
+    margin: 20px;
+}
+
+nav ul a {
+    text-decoration: none;
+    border-bottom: black 3px solid;
+    text-transform: uppercase;
+    color: black;
+    margin-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    transition: 0.5s;
+    margin-top: 40px;
+    
+}
+nav ul a:hover{
+    color:#fdfdfd ;
+    border-bottom: #4d0f00 10px solid;
+    transition: 0.5s;
+}
+
+
+h1 {
+    font-family: cursive;
+    font-size: 50px;
+    float: left;
+    color: #4d0f00;
+    border: dotted white 10px;
+    
+}
+
+h2 {
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+}
+
+
+
+
